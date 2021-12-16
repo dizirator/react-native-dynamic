@@ -15,10 +15,6 @@
 		"build": "tsc",
 		"watch": "yarn run build --watch"
 	},
-	"peerDependencies": {
-		"react": ">=16.11.0",
-		"react-native": ">=0.62.0"
-	},
 	"dependencies": {
 		"@types/react": "*",
 		"@types/react-native": ">=0.62.0",
